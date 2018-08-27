@@ -1,3 +1,5 @@
+//application's state is formed by reducers
+//application's state is completely separate from component's state
 export default function() {
     return [
         {title: 'Javascript: The Good Parts', pages: 139},
