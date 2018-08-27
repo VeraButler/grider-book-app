@@ -3,7 +3,7 @@ import BooksReducer from './reducer_books';
 
 const rootReducer = combineReducers({
   //state: (state = {}) => state
-  //map reducers
+  //add a key to global application state and returns value
   books: BooksReducer
 });
 
