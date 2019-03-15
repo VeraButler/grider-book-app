@@ -5,6 +5,9 @@ This project was used as an introduction to React with Redux.
 ## Skills Learned
 1. Redux
     -  Reducers
+       -  Creation
+       -  Rules
+       -  Testing
     -  Containers 
        - Connect Redux to React
        - Classes
